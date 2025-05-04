@@ -2,7 +2,7 @@
 
 # This repo contains all collab notebooks for my final project. 
 
-## In order to run the collab notebook, first download the walmart.csv from the notebook and upload it into each respective file. 
+## In order to run the collab notebook, first download the walmart.csv and upload it into each respective collab environment. 
 If you recieve a NAN error for any of the models, please wait till the data is fully loaded prior to running the second block which 
 will rename each variable to that which was used in the analysis. 
 
